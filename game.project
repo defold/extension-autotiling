@@ -15,7 +15,7 @@ input_method = HiddenInputField
 title = autotiling
 
 [library]
-include_dirs = lua-preprocessor
+include_dirs = autotiling
 
 [input]
 game_binding = /builtins/input/all.input_bindingc
