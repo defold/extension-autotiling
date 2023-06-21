@@ -1,0 +1,16 @@
+tile_set: "/main/assets/grass-8bit.tilesource"
+layers {
+  id: "layer1-auto8bit"
+  z: 0.0
+  is_visible: 1
+  cell {
+    x: 0
+    y: 0
+    tile: 22
+    h_flip: 0
+    v_flip: 0
+    rotate90: 0
+  }
+}
+material: "/builtins/materials/tile_map.material"
+blend_mode: BLEND_MODE_ALPHA
