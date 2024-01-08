@@ -1,3 +1,6 @@
+# THIS IS AN EXPERIMENTAL AND NON WORKING EXTENSION - IGNORE!
+
+
 # extension-autotiling
 
 This is an extension for applying 4- or 8-bit autotiling while painting on a Defold tilemap. The extension uses the solution described in this blog post:
